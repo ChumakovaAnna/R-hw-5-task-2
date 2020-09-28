@@ -1,0 +1,8 @@
+.container {
+  display: inline-block;
+  border: 1px solid #838383
+}
+
+.newsLink {
+  margin: 10px;
+}
