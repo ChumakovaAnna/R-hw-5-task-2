@@ -1,8 +1,75 @@
+body {
+  font-size: 0.75em;
+}
+button {
+  border: none;
+  background-color: #ffffff;
+}
+
 .container {
-  display: inline-block;
-  border: 1px solid #838383
+  border: 1px solid #838383;
+  padding: 1em;
+}
+
+.header {
+  display: flex;
 }
 
 .newsLink {
   margin: 10px;
+}
+
+.news {
+  display: flex;
+  flex-direction: column;
+  width: 47.5%;
+}
+
+.bannerSmall {
+  width: 30%;
+}
+
+.img_bannerSmall{
+  max-width: 70%;
+}
+
+.searchContainer {
+  margin: 5% 0;
+}
+
+.input_search {
+  width: 70%;
+}
+
+.bannerBig {
+  margin-bottom: 5%;
+}
+
+.img_bannerBig {
+  display: block;
+
+  background-color: #838383;
+}
+
+.footer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.ether span, .visited span, .program span {
+  margin-right: 0.5em;
+}
+
+.weather {
+  display: flex;
+}
+
+.weatherNow {
+  margin-right: 1em;
+}
+
+.img_weatherNow {
+  width: 1.5em;
+  height: 1.5em;
+  background-color: #838383;
 }
