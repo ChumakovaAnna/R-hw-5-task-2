@@ -1,13 +1,18 @@
 body {
   font-size: 0.75em;
 }
+
 button {
   border: none;
   background-color: #ffffff;
 }
+h3 {
+  margin: 0;
+  text-align: center;
+}
 
 .container {
-  border: 1px solid #838383;
+  border: 1px solid #e1fdae;
   padding: 1em;
 }
 
@@ -26,7 +31,7 @@ button {
 }
 
 .bannerSmall {
-  width: 30%;
+  width: 20%;
 }
 
 .img_bannerSmall{
@@ -47,8 +52,9 @@ button {
 
 .img_bannerBig {
   display: block;
+  height: 50px;
 
-  background-color: #838383;
+  background-color: #bbbbbb;
 }
 
 .footer {
@@ -56,8 +62,12 @@ button {
   flex-wrap: wrap;
 }
 
-.ether span, .visited span, .program span {
+li span {
   margin-right: 0.5em;
+}
+
+li span:last-child {
+  margin-right: 0;
 }
 
 .weather {
