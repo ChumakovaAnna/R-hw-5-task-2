@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/R-hw-5-task-2/static/css/main.16585c81.chunk.css",
+    "main.js": "/R-hw-5-task-2/static/js/main.240bf8d7.chunk.js",
+    "main.js.map": "/R-hw-5-task-2/static/js/main.240bf8d7.chunk.js.map",
+    "runtime-main.js": "/R-hw-5-task-2/static/js/runtime-main.a1e9418c.js",
+    "runtime-main.js.map": "/R-hw-5-task-2/static/js/runtime-main.a1e9418c.js.map",
+    "static/js/2.5ec0ceef.chunk.js": "/R-hw-5-task-2/static/js/2.5ec0ceef.chunk.js",
+    "static/js/2.5ec0ceef.chunk.js.map": "/R-hw-5-task-2/static/js/2.5ec0ceef.chunk.js.map",
+    "index.html": "/R-hw-5-task-2/index.html",
+    "precache-manifest.c8a009b0b8bb094b9db49ae8587317a1.js": "/R-hw-5-task-2/precache-manifest.c8a009b0b8bb094b9db49ae8587317a1.js",
+    "service-worker.js": "/R-hw-5-task-2/service-worker.js",
+    "static/css/main.16585c81.chunk.css.map": "/R-hw-5-task-2/static/css/main.16585c81.chunk.css.map",
+    "static/js/2.5ec0ceef.chunk.js.LICENSE.txt": "/R-hw-5-task-2/static/js/2.5ec0ceef.chunk.js.LICENSE.txt",
+    "static/media/icon.svg": "/R-hw-5-task-2/static/media/icon.616402ed.svg",
+    "static/media/image.jpg": "/R-hw-5-task-2/static/media/image.17a428f2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1e9418c.js",
+    "static/js/2.5ec0ceef.chunk.js",
+    "static/css/main.16585c81.chunk.css",
+    "static/js/main.240bf8d7.chunk.js"
+  ]
+}
